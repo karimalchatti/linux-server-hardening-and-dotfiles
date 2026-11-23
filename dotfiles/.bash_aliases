@@ -1,0 +1,5 @@
+alias ll='ls -alF'
+alias k='kubectl'
+alias kgp='kubectl get pods -A'
+alias dfh='df -h /'
+alias mem='free -h'
